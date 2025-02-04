@@ -31,7 +31,7 @@ env:
   FIRMWARE_RELEASE: true
   FIRMWARE_TAG: IPQ60XX-Main
   DEVICE_NAME: qihoo_360V6
-  KERNEL_VERSION: 6.6
+  KERNEL_VERSION: 4.4.60
   TZ: Asia/Shanghai
 
 jobs:
