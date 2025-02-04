@@ -1,4 +1,4 @@
-name: OpenWrt-IPQ60XX-360V6-Main
+name: 360v6
 
 on:
   workflow_dispatch:
