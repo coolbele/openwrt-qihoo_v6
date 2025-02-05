@@ -18,7 +18,7 @@ on:
 
 env:
   REPO_URL: https://github.com/zheshifandian/openwrt-ax1800
-  REPO_BRANCH: main
+  REPO_BRANCH: IPQ60XX-Main
   ENCODE_FILES: ${{ secrets.ENCODE_FILES }}
   PASSWORD: ${{ secrets.PASSWORD }}
   FEEDS_CONF: ./feeds/feeds.conf.default
