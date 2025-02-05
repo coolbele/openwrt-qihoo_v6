@@ -17,8 +17,8 @@ on:
 #    - cron: 0 19 * * *
 
 env:
-  REPO_URL: https://github.com/coolbele/openwrt-gl-ax1800
-  REPO_BRANCH: IPQ60XX-Main
+  REPO_URL: https://github.com/gw826943555/openwrt
+  REPO_BRANCH: ipq60xx-5.15
   ENCODE_FILES: ${{ secrets.ENCODE_FILES }}
   PASSWORD: ${{ secrets.PASSWORD }}
   FEEDS_CONF: ./feeds/feeds.conf.default
