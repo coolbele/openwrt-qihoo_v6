@@ -17,8 +17,8 @@ on:
 #    - cron: 0 19 * * *
 
 env:
-  REPO_URL: https://github.com/chainsx/immortalwrt-ipq60xx
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/coolbele/v6
+  REPO_BRANCH: main
   ENCODE_FILES: ${{ secrets.ENCODE_FILES }}
   PASSWORD: ${{ secrets.PASSWORD }}
   FEEDS_CONF: ./feeds/feeds.conf.default
