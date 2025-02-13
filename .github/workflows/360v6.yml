@@ -17,7 +17,7 @@ on:
     - cron: 0 2 * * *
 
 env:
-  REPO_URL: https://github.com/FKDXD/openwrt-gl-ax1800
+  REPO_URL: https://github.com/coolbele/sdf8057-ipq6000
   REPO_BRANCH: master
   ENCODE_FILES: ${{ secrets.ENCODE_FILES }}
   PASSWORD: ${{ secrets.PASSWORD }}
